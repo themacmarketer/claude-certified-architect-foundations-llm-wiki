@@ -6,6 +6,13 @@ into bite-sized, cross-linked pages: the concepts, the decision pairs
 ("when X vs Y"), the recurring distractor traps, and a first-principles
 method for choosing the right answer.
 
+Mock Exams:
+* https://claude-certified-architect-mock-exam-cyberskill.vercel.app/ (hard)
+* https://github.com/paullarionov/claude-certified-architect/blob/main/practical_test_en.html (medium)
+* https://claudecertificationguide.com/mock-exam (medium)
+* https://claudecertificationguide.com/
+* https://certsafari.com (medium, with hundreds of questions)
+
 > ⚠️ **Unofficial.** This is a community study aid, not affiliated with
 > or endorsed by Anthropic. It reflects one learner's synthesis and may
 > contain mistakes — verify against the official exam guide and the
