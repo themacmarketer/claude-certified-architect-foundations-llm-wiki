@@ -10,8 +10,15 @@ Mock Exams:
 * https://claude-certified-architect-mock-exam-cyberskill.vercel.app/ (hard)
 * https://github.com/paullarionov/claude-certified-architect/blob/main/practical_test_en.html (medium)
 * https://claudecertificationguide.com/mock-exam (medium)
+* https://www.certsafari.com/anthropic (medium, with hundreds of questions)
+
+Other Guides:
+* https://docs.google.com/document/d/1D7aaLwo_w5FXBiKh-Etg5YJp1VGvVwhB5pJCtb2JSkI/edit
+* https://www.claudeaimalaysia.com/malaysia-claude-ccaf-studyguide.html
+* https://claude-architect-foundations.vercel.app/
+* https://github.com/anthropics/claude-cookbooks
 * https://claudecertificationguide.com/
-* https://certsafari.com (medium, with hundreds of questions)
+* https://www.anthropiccertifications.com/
 
 > ⚠️ **Unofficial.** This is a community study aid, not affiliated with
 > or endorsed by Anthropic. It reflects one learner's synthesis and may
@@ -103,4 +110,4 @@ style (one-line summary, `## Sources`, `## Continue reading`,
 ## License
 
 [CC BY 4.0](LICENSE) — share and adapt freely, with attribution.
-© 2026 Hong Chu.
+© 2026 Hong Chu. Updates by Ivan.
